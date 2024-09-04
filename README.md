@@ -1,4 +1,4 @@
-<img align="center" height="200" src="https://media1.tenor.com/m/MHtnl9iadvgAAAAd/rikoamv-sukuna.gif"  />
+<img align="left" height="" src="https://media1.tenor.com/m/MHtnl9iadvgAAAAd/rikoamv-sukuna.gif"  />
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -41,8 +41,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/khrisnaa/khrisnaa/output/snake.svg" alt="Snake animation" />
 
