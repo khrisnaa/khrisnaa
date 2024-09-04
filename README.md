@@ -1,11 +1,11 @@
-<img align="left" height="300" src="https://media1.tenor.com/m/MHtnl9iadvgAAAAd/rikoamv-sukuna.gif"  />
+<img align="left" height="200" src="https://media1.tenor.com/m/MHtnl9iadvgAAAAd/rikoamv-sukuna.gif"  />
 
 ###
 
-<h4 align="left">throw new Error("Error 418: I'm a teapot 🫖")</h4>
+<p align="left">throw new Error("Error 418: I'm a teapot 🫖")</p>
 
 ###
 
-<img widht="300" src="https://raw.githubusercontent.com/khrisnaa/khrisnaa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/khrisnaa/khrisnaa/output/snake.svg" alt="Snake animation" />
 
 ###
