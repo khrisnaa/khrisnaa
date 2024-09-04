@@ -1,8 +1,8 @@
-<img align="left" height="200" src="https://media1.tenor.com/m/MHtnl9iadvgAAAAd/rikoamv-sukuna.gif"  />
+<img align="left" height="300" src="https://media1.tenor.com/m/MHtnl9iadvgAAAAd/rikoamv-sukuna.gif"  />
 
 ###
 
-<p align="left">throw new Error("Error 418: I'm a teapot 🫖")</p>
+<h1 align="center">throw new Error("Error 418: I'm a teapot 🫖")</h1>
 
 ###
 
