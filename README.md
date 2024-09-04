@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">throw new Error("Error 418: I'm a teapot 🫖")</h1>
+<h4 align="left">throw new Error("Error 418: I'm a teapot 🫖")</h4>
 
 ###
 
