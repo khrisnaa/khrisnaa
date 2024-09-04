@@ -1,12 +1,12 @@
-<img align="left" height="" src="https://media1.tenor.com/m/MHtnl9iadvgAAAAd/rikoamv-sukuna.gif"  />
+<img align="left" height="200" src="https://media1.tenor.com/m/MHtnl9iadvgAAAAd/rikoamv-sukuna.gif"  />
 
 ###
 
-<h1 align="center">throw new Error("Error 418: I'm a teapot 🫖")</h1>
+<h3 align="left">throw new Error("Error 418: I'm a teapot 🫖")</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
