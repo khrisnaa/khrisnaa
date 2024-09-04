@@ -6,6 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/khrisnaa/khrisnaa/output/snake.svg" alt="Snake animation" />
+<img widht="300" src="https://raw.githubusercontent.com/khrisnaa/khrisnaa/output/snake.svg" alt="Snake animation" />
 
 ###
